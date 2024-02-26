@@ -1,0 +1,2 @@
+# valeri
+starkcoin
